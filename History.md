@@ -12,20 +12,17 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">CSCI 5828: The Spiral Model</h1>
-      <h2 class="project-tagline">Phases</h2>
-      <a href="index.html" class="btn">Return to Table of Contents</a>
-  <a href="Advantages.html" class="btn">Next Section: Advantages</a>
+      <h2 class="project-tagline">History of the Spiral Model</h2>
     </section>
 
     <section class="main-content">
       <h3>
 <a id="the-spiral-model" class="anchor" href="#the-spiral-model" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Spiral Model.</h3>
 
-<p>This is the phases page.</p>
+<p>This is the history page.</p>
       
+    </section>
 
- 
-     </section>
   
   </body>
 </html>
