@@ -23,6 +23,9 @@
       
     </section>
 
+
+ <a href="index.html" class="btn">Return to Table of Contents</a>
+  <a href="Advantages.html" class="btn">Next Section: Advantages</a>
   
   </body>
 </html>
