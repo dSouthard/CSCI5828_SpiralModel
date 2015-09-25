@@ -13,6 +13,8 @@
     <section class="page-header">
       <h1 class="project-name">CSCI 5828: The Spiral Model</h1>
       <h2 class="project-tagline">Phases</h2>
+      <a href="index.html" class="btn">Return to Table of Contents</a>
+  <a href="Advantages.html" class="btn">Next Section: Advantages</a>
     </section>
 
     <section class="main-content">
@@ -22,8 +24,7 @@
 <p>This is the phases page.</p>
       
 
- <a href="index.html" class="btn">Return to Table of Contents</a>
-  <a href="Advantages.html" class="btn">Next Section: Advantages</a>
+ 
      </section>
   
   </body>

@@ -21,9 +21,6 @@
 
 <p>This is the phases page.</p>
       
-    </section>
-
-	<section class="link-content">
 
  <a href="index.html" class="btn">Return to Table of Contents</a>
   <a href="Advantages.html" class="btn">Next Section: Advantages</a>
