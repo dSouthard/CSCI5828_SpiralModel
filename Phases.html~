@@ -33,7 +33,8 @@
 	<p>The point (and one of the main strengths of this model) is that major sources or risk are identified and resolved before they become actual problems.</p>
       
     <h3>Development</h3>
-	<p>In this phase, the software is actually developed. Following the concept defined by the requirements, there is first a detailed architecture designed. Code is then drafted following that design and, in subsequent spirals, integrated with previously existing code. All new software is then thoroughly tested before being validated for release to the next state.</p>
+	<p>In this phase, the software is actually developed. Following the concept defined by the requirements, there is first a detailed architecture designed. Code is then drafted following that design and, in subsequent spirals, integrated with previously existing code. All new software is then thoroughly tested before being validated for release to the next state. </p>
+	<p>In the first spiral, this stage may consist of only developing a proof of concept to get customer feedback. Subsequent spirals with higher clarity on requirements and design will then produce better, more detailed working models with each build requiring further customer feedback to become better defined in the next spiral.
 	
 	<h3>Review</h3>
 	<p>As with most other models, each spiral is completed by a review involving the primpary people concerned with the product. This review covers all products and functionality developed during the current cycle, plans for the next cycle, and the resources required to carry them out. The customer is also allowed to evaluted the project to date and request any changes as necessary to be implemented in the next spiral.</p>

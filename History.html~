@@ -34,9 +34,9 @@
       <p>The waterfall model improved upon that method by stipulating that software had to be developed in successive stages with design occuring prior to actual coding. An enhanced waterfall model added feedback loops between those successive stages. However, the waterfall model still had a document-driven standard, emphasizing fully elaborated documents as completion criteria for early requirement and design phases. This results in many projects being pushed to write poorly developed documentation, which in turn results in the developement of large quantities of unuseable code.</p>
       <img src="res/iterative-model.jpg" alt="Iterative Model">
       <p>The iterative development model consists of stages of expanding increments of an operational product. It fits the situation where a user can say "I can't tell you want I want, but I'll know it when I see it," allowing for developers to provide rapid initial operational capability and giving them a feedback loop for determing subsequent product improvements. This model has some of the same problems of the code-and-fix model, where if previous code was not modulized enough it resulted in large swatchs of useless code as areas of product improvement were determined.</p>
-      <p>The spiral model proposes to fix these problems and more. Software developement is to take place through a series of cycles through the model's four phases. The underlying concept is that each cycle involves a progression through the same sequence of steps for each portion of the code.   </p>
+      <p>The spiral model proposes to fix these problems and more. Software developement is to take place through a series of cycles through the model's four phases. The underlying concept is that each cycle involves a progression through the same sequence of steps for each portion of the code.</p>
       </section>
-      <section class="page-footer">
+      <section class="page-header">
       <a href="index.html" class="btn">Return to Table of Contents</a>
       <a href="Phases.html" class="btn">Next Section: Activities/Phases</a>
     </section>
