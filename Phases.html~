@@ -12,19 +12,39 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">CSCI 5828: The Spiral Model</h1>
-      <h2 class="project-tagline">Phases</h2>
-      <a href="index.html" class="btn">Table of Contents</a>
-      <a href="Advantages.html" class="btn">Next Seciont: Advantages</a>
+      <h2 class="project-tagline">Diana Southard - Presentation 1</h2>
+      <a href="index.html" class="btn">Table of Contents</a><br>
+      <a href="History.html" class="btn">Previous Section: History</a>
+      <a href="Advantages.html" class="btn">Next Section: Advantages</a>
     </section>
 
     <section class="main-content">
       <h3>
-<a id="the-spiral-model" class="anchor" href="#the-spiral-model" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Spiral Model.</h3>
+<a id="the-spiral-model" class="anchor" href="#the-spiral-model" aria-hidden="true"><span class="octicon octicon-link"></span></a>The Phases of the Spiral Model</h3>
 
-<p>This is the phases page.</p>
+<p>As stated in the history section, the spiral model consists of repetitive cycles through four stages. In this section, we will explore what those four sections are. </p>
+
+	<h3>Identification</h3>
+	<p>This is the planning phase of the model. In general, this stage involves defining new system requirements in as much detail as possible. One way this can be accomplished by interviewing users of the system being designed. There should be continuous communication between the customer and the system analyst to ensure that any asked-for requirements are truly understood the same way by both parties. </p>
+<p>This planning stage also includes estimating the project schedule, cost, and resource allocation for subsequent iterations. As the product matures in subsequent spirals, any newly-identified or changed requirements will be evaluated in this stage, along with their effects on the previously estimated schedule and total project cost.</p>
+<p>By the end of this phase, the product's objectives, alternative means of implenmenting this spiral's portion of the product, and constraints should be clearly determined. The objectives include such things as performance, functionality, and ability to accomodate change. The constraints include such things as cost, schedule, and interfaces. The project is then ready to move on to the net stage. </p>
+	<h3>Evaluation and Risk Analysis</h3>
+	<p>During this stage, the product will be analyzed to identify areas of uncertainty that are significant sources of project risk. After identifying those risks, cost-effective strategies will then be formulated to resolve them. This could mean prototying, simulating, administrating user questionairs, or other risk resolution techniques. </p>
+	<p>The point (and one of the main strengths of this model) is that major sources or risk are identified and resolved before they become actual problems.</p>
       
+    <h3>Development</h3>
+	<p>In this phase, the software is actually developed. Following the concept defined by the requirements, there is first a detailed architecture designed. Code is then drafted following that design and, in subsequent spirals, integrated with previously existing code. All new software is then thoroughly tested before being validated for release to the next state.</p>
+	
+	<h3>Review</h3>
+	<p>As with most other models, each spiral is completed by a review involving the primpary people concerned with the product. This review covers all products and functionality developed during the current cycle, plans for the next cycle, and the resources required to carry them out. The customer is also allowed to evaluted the project to date and request any changes as necessary to be implemented in the next spiral.</p>
+	<p>This main objective of this phase is to ensure that all concerned parties are mutually committed to the approach for the next phase.</p>
+	
     </section>
-
+<section class="page-footer">
+	  <a href="History.html" class="btn">Previous Section: History</a>
+      <a href="index.html" class="btn">Return to Table of Contents</a>
+      <a href="Advantages.html" class="btn">Next Section: Advantages</a>
+    </section>
   
   </body>
 </html>
